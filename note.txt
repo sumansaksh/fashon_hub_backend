@@ -1,0 +1,39 @@
+cluster pasword:-YXRbLTd4PtH5yI6e;
+157.50.53.243/32
+
+My IP Address
+
+/////////
+mongodb+srv://Geeta:<password>@users.tq9lu.mongodb.net/?retryWrites=true&w=majority
+///////////
+
+
+{
+    "name":"suman",
+    "email":"suman@suman",
+    "phone":7654345678,
+    "work":"web developer",
+    "password":"suman",
+    "cpassword":"suman"
+}
+
+//bcrypt => hides user password/hash
+jwt//to genrate tokens
+nodemailer/////email/
+cookie-parser//store in cokkie and
+
+
+"email":"sakshi@suman",
+    "password":"sumss",
+    "phone":7654345678,
+    "cpassword":"sumss",
+    "name":"sakshi"
+
+
+USER VALIDATION FAILED: NAME: PLEASE ENTER YOUR NAME, EMAIL: PLEASE ENTER YOUR EMAIL, PHONE: PLEASE ENTER YOUR PHONE NUMBER, PASSWORD: PLEASE ENTER VALID PASSWORD, CPASSWORD: PATH `CPASSWORD` IS REQUIRED.
+
+
+USER VALIDATION FAILED: CPASSWORD: PATH `CPASSWORD` IS REQUIRED., PHONE: PLEASE ENTER YOUR PHONE NUMBER, PASSWORD: PASSWORD MUST BE AT LEAST 8 CHARACTERS
+
+
+gitakumari7oct@gmail.com
