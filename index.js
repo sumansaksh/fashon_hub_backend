@@ -33,7 +33,7 @@ app.use(cookieParser());
 const port = process.env.PORT;
 
 //link router file
-app.use(require("./router/productRoute"));
+app.use(require("./router/ProductRoute"));
 app.use(require("./router/UserRoute"));
 app.use(require("./router/orderRoute"));
 app.use(require("./router/paymentRoute"));
